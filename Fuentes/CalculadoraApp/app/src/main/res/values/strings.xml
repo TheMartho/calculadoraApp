@@ -2,5 +2,11 @@
     <string name="app_name">CalculadoraApp</string>
     <string name="texto1">Hola Mundo</string>
     <string name="texto2">El mismisimo</string>
-    <string name="texto3">saludar_btn</string>
+    <string name="saludar_btn">Saludar</string>
+    <string name="n2">N2</string>
+    <string name="n1">N1</string>
+    <string name="sumarText">+</string>
+    <string name="restaText">-</string>
+    <string name="multiText">*</string>
+    <string name="divText">/</string>
 </resources>
